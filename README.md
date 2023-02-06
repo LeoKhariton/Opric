@@ -11,3 +11,4 @@
 Установочный файл для своей целевой платформы можно найти во вкладке "Релизы" (*Releases*), которая расположена по [ссылке](https://github.com/LeoKhariton/Mobile-Cpp-Tutorial/releases).
 Приложение не потребует никаких дополнительных разрешений при первом запуске.
 ## Запуск на Android ##
+![up](https://sun9-75.userapi.com/impg/c857720/v857720744/1da0b4/hVWf2qR_m1Y.jpg?size=736x736&quality=96&sign=38b4b1f434e22002a9d09f67666be4b6&type=album)
