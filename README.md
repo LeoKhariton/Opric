@@ -20,3 +20,5 @@
 4. Нажмите "Установить". После завершения установки приложение откроется.
 ## Запуск на Android ##
 ![up](https://sun9-75.userapi.com/impg/c857720/v857720744/1da0b4/hVWf2qR_m1Y.jpg?size=736x736&quality=96&sign=38b4b1f434e22002a9d09f67666be4b6&type=album)
+
+![напутствие](https://raw.githubusercontent.com/LeoKhariton/Mobile-Cpp-Tutorial/main/Рисунок1.png)
