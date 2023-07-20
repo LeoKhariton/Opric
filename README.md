@@ -81,3 +81,6 @@ add-appxpackage [путь к установочному файлу]
 ### Версия 0 ###
 Версия 0 была выполнена на Windows Forms  
 ![a9](https://github.com/LeoKhariton/Opric/blob/main/Version%20History/v0-WinForms.png)
+### Версия 1 ###
+была выполнена на Xamarin Forms и поддерживала следующие платформы: Android, UWP, iOS (экспериментально), MacOS (экспериментально)
+### Текущая версия - 2 ###
