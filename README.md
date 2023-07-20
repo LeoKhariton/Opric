@@ -78,3 +78,6 @@ add-appxpackage [путь к установочному файлу]
 ## Защита интеллектуальной собственности ##
 [Свидетельство о регистрации программы для ЭВМ № 2023618889](https://www.elibrary.ru/item.asp?id=53819195)  
 ## История версий ##
+### Версия 0 ###
+Версия 0 была выполнена на Windows Forms  
+![a9](https://github.com/LeoKhariton/Opric/blob/main/Version%20History/v0-WinForms.png)
