@@ -17,7 +17,7 @@
 | :--: | -- |
 | 0 | Windows 7 |
 | [1](https://github.com/LeoKhariton/Mobile-Cpp-Tutorial/releases) | &#9989;**Android** 6.0 (API 23)<br/>**iOS** 10<br/>&#9989;**Windows** 8.1 (необходима поддержка **UWP**)<br/>**macOS** Mojave (10.14) |
-| 2 | **Android** 5.0 (API 21)<br/>**iOS** 11<br/>&#9989;**Windows** 10 (с помощью **Win UI 3**)<br/>**macOS** 10.15 |
+| [2](https://github.com/LeoKhariton/Opric/releases/tag/v2.0-preview2) | &#9989;**Android** 5.0 (API 21)<br/>**iOS** 11<br/>&#9989;**Windows** 10 (с помощью **Win UI 3**)<br/>**macOS** 10.15 |
 ### Android
 Скачайте установочный файл `.apk` и запустите его на устройстве Android.  
 ### Windows 11
@@ -72,6 +72,7 @@
 ## Апробация и внедрение
 ## Защита интеллектуальной собственности
 [Свидетельство о регистрации программы для ЭВМ № 2023618889](https://www.elibrary.ru/item.asp?id=53819195)  
+![](https://github.com/LeoKhariton/Opric/blob/main/license.jpg)
 ## История версий \[АРХИВ]
 ### Версия 1
 ![видеодемонстрация версии 1](https://github.com/LeoKhariton/Opric/blob/main/Test/видео.gif)  
