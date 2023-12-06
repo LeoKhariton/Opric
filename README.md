@@ -18,6 +18,7 @@
 | 0 | Windows 7 |
 | [1](https://github.com/LeoKhariton/Opric/releases/tag/v1.2.2) | &#9989;**Android** 6.0 (API 23)<br/>**iOS** 10<br/>&#9989;**Windows** 8.1 (необходима поддержка **UWP**)<br/>**macOS** Mojave (10.14) |
 | [2](https://github.com/LeoKhariton/Opric/releases/tag/v2.0.0) | &#9989;**Android** 5.0 (API 21)<br/>**iOS** 11<br/>&#9989;**Windows** 10 (с помощью **Win UI 3**)<br/>**macOS** 10.15 |
+| 3 | **Android** 5.0 (API 21)<br/>**iOS** 11<br/>&#9989;**Windows** 10 (с помощью **Win UI 3**)<br/>**macOS** 10.15 |
 ### Android
 Скачайте установочный файл с расширением `.apk` и запустите его на устройстве Android.  
 ### Windows 11
