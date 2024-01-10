@@ -82,6 +82,8 @@
 [Свидетельство о регистрации программы для ЭВМ № 2023618889](https://www.elibrary.ru/item.asp?id=53819195)  
 ![](https://github.com/LeoKhariton/Opric/blob/main/license.jpg)
 ## История версий \[АРХИВ]
+### Версия 2
+
 ### Версия 1
 ![видеодемонстрация версии 1](https://github.com/LeoKhariton/Opric/blob/main/Test/видео.gif)  
 #### Windows
