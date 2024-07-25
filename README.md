@@ -13,12 +13,13 @@
 
 ## Установка
 Начиная с версии 1.0, приложение разрабатывалось с помощью кроссплатформенных фрейморков, поэтому его можно запустить на широком круге устройств:
-| Версия | Поддерживаемые платформы<br/>(минимальная версия) |
-| :--: | -- |
-| 0 | Windows 7 |
-| [1](https://github.com/LeoKhariton/Opric/releases/tag/v1.2.2) | &#9989;**Android** 6.0 (API 23)<br/>**iOS** 10<br/>&#9989;**Windows** 8.1 (необходима поддержка **UWP**)<br/>**macOS** Mojave (10.14) |
-| [2](https://github.com/LeoKhariton/Opric/releases/tag/v2.0.0) | &#9989;**Android** 5.0 (API 21)<br/>**iOS** 11<br/>&#9989;**Windows** 10 (с помощью **Win UI 3**)<br/>**macOS** 10.15 |
-| [3<br/>(preview only)](https://github.com/LeoKhariton/Opric/releases/tag/v3.0-preview2) | **Android** 5.0 (API 21)<br/>**iOS** 11<br/>&#9989;**Windows** 10 (с помощью **Win UI 3**)<br/>**macOS** 10.15 |
+| Версия | Поддерживаемые платформы<br/>(минимальная версия) | Текущее состояние |
+| :--: | -- | -- |
+| 0 | Windows 7 | Не поддерживается |
+| [1](https://github.com/LeoKhariton/Opric/releases/tag/v1.2.2) | &#9989;**Android** 6.0 (API 23)<br/>**iOS** 10<br/>&#9989;**Windows** 8.1 (необходима поддержка **UWP**)<br/>**macOS** Mojave (10.14) | Поддерживается |
+| [2](https://github.com/LeoKhariton/Opric/releases/tag/v2.0.0) | &#9989;**Android** 5.0 (API 21)<br/>**iOS** 11<br/>&#9989;**Windows** 10 (с помощью **Win UI 3**)<br/>**macOS** 10.15 | Поддерживается |
+| [3<br/>(preview only)](https://github.com/LeoKhariton/Opric/releases/tag/v3.0-preview2) | **Android** 5.0 (API 21)<br/>**iOS** 11<br/>&#9989;**Windows** 10 (с помощью **Win UI 3**)<br/>**macOS** 10.15 | Поддерживается |
+| 4 | Windows <br/> Android <br/> iOS | В разработке |
 ### Android
 Скачайте установочный файл с расширением `.apk` и запустите его на устройстве Android.  
 При необходимости, дайте приложению доступ к мобильной сети.
